@@ -1,5 +1,4 @@
 # Página criada na semana NLW da RocketSeat
-***
 Essa aplicação contém as seguintes tecnologias:
 * HTML
 * CSS
