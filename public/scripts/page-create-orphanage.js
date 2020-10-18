@@ -89,8 +89,9 @@ function toggleSelect(event) {
 
 // function validade(event) {
 //   //validar se lat e lng estão preenchidos
-//   const needsLatAndLng = event.;
-//   if(needsLatAndLng.value == ""){
+//   const needsLatAndLng = event.value;
+  
+//   if(needsLatAndLng.contains('')){
 //     event.preventDefault();
 //     alert('Selecione um ponto no mapa')
 //   }
